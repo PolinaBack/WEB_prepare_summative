@@ -63,3 +63,4 @@ def get_geo_info(city_name, type_info):
     else:
         return "Кажется, вы указали неверный параметр"
 
+#
